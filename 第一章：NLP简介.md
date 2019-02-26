@@ -1,7 +1,5 @@
-# 说明
-本项目是我学习nlp课程的笔记
 
-## 第一章
+## 第一章：NLP简介
 ### NLP是什么?
 
 •NLP( Natural Language Processing ) 是 自然 语言 处理 的 简称,是研究人与
