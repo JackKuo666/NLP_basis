@@ -1,52 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69b32bd5-e206-4615-af6c-60bda98fc5b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0_jieba_example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0_jieba_example/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1_Stanford_NLP_example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1_Stanford_NLP_example/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2_hanlp_example/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2_hanlp_example/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3_ chapter/3.6TextRank算法原理介绍/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4.2依存句法树解析/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4.2依存句法树解析/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0_jieba_example/.idea/jieba_example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0_jieba_example/.idea/jieba_example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0_jieba_example/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0_jieba_example/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0_jieba_example/jieba_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0_jieba_example/jieba_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0_jieba_example/pos_seg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.2准确分词之加载自定义字典分词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.2准确分词之加载自定义字典分词/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.3准确分词之动态调整词频和字典顺序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.3准确分词之动态调整词频和字典顺序/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.3准确分词之动态调整词频和字典顺序/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.3准确分词之动态调整词频和字典顺序/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/grammer/rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/grammer/rules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/ss.ps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.6TextRank算法原理介绍/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.6TextRank算法原理介绍/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.6TextRank算法原理介绍/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.6TextRank算法原理介绍/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.2依存句法树解析/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.2依存句法树解析/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.2依存句法树解析/recursionSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.2依存句法树解析/recursionSearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.2依存句法树解析/sentenceSplit_host.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.2依存句法树解析/sentenceSplit_host.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.2依存句法树解析/stanfordParse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.2依存句法树解析/stanfordParse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.3名词短语块挖掘/extract_nvp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/extract_nvp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.3名词短语块挖掘/grammer/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/grammer/tools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.3名词短语块挖掘/nvp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/nvp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.3名词短语块挖掘/tokenizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/tokenizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4бв4╫╘╢и╥х╙я╖и╙ыCFG.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/cfg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammer/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/grammer/tools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nvp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/nvp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/tokenizer.py" afterDir="false" />
-    </list>
+    <list default="true" id="69b32bd5-e206-4615-af6c-60bda98fc5b2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extract_nvp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="984">
+            <state relative-caret-position="1080">
               <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
               <folding>
                 <element signature="e#15#37#0" expanded="true" />
@@ -124,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cfg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="1785">
               <caret line="124" column="51" lean-forward="true" selection-start-line="124" selection-start-column="51" selection-end-line="124" selection-end-column="51" />
             </state>
           </provider>
@@ -256,7 +211,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1431" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="1430" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -278,16 +233,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/text.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/grammer/rules.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/nvp.txt">
+    <entry file="file://$PROJECT_DIR$/tokenizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        <state relative-caret-position="345">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -298,23 +250,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tokenizer.py">
+    <entry file="file://$PROJECT_DIR$/nvp.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cfg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="124" column="51" lean-forward="true" selection-start-line="124" selection-start-column="51" selection-end-line="124" selection-end-column="51" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/extract_nvp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="984">
+        <state relative-caret-position="1080">
           <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
           <folding>
             <element signature="e#15#37#0" expanded="true" />
@@ -324,6 +272,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dependency.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="124" column="51" lean-forward="true" selection-start-line="124" selection-start-column="51" selection-end-line="124" selection-end-column="51" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
