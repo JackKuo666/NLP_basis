@@ -42,7 +42,7 @@ def grammer_parse(raw_sentence=None,file_object=None):
     
     stanford_ner_drop_rp = nltk.RegexpParser(grammer_dict['stanford_ner_drop'])
     try :
-        stanford_ner_drop_result = stanford_ner_drop_rp.parse(ner_stanford(raw_sentence) )
+        stanford_ner_drop_result = stanford_ner_drop_rp.parse(ner_stanford(raw_sentence) )     # 通过 Stanfordnlp的ner之后，再通过nltk的parse进行构建语法树
         
     except:
         print("the error sentence is {}".format(raw_sentence))

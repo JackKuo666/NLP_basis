@@ -83,11 +83,9 @@ if __name__=="__main__":
     out=open("dependency.txt",'w',encoding='utf8')
     itera=read_data('text.txt')
     for it in itera:
-        s=parse_sentence(it)
-        res=search(s)   
+        s=parse_sentence(it)   # 通过Stanfordnlp依存句法分析得到一个句法树 用nltk包装成树的结构
+        res=search(s)          # 使用nltk遍历树，然后把短语合并
         print(res)
     
                 
-            
-            
             

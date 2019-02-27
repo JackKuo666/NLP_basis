@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c685fafe-c538-446a-ac9d-f25d722f0bef" name="Default Changelist" comment="" />
+    <list default="true" id="c685fafe-c538-446a-ac9d-f25d722f0bef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0_jieba_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_jieba_example/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1_Stanford_NLP_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1_Stanford_NLP_example/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2_hanlp_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2_hanlp_example/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3_ chapter/3.6TextRank算法原理介绍/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.4自定义语法与CFG/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0_jieba_example/.idea/jieba_example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0_jieba_example/.idea/jieba_example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0_jieba_example/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0_jieba_example/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0_jieba_example/jieba_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0_jieba_example/jieba_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0_jieba_example/pos_seg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.2准确分词之加载自定义字典分词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.2准确分词之加载自定义字典分词/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.3准确分词之动态调整词频和字典顺序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.3准确分词之动态调整词频和字典顺序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.3准确分词之动态调整词频和字典顺序/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.3准确分词之动态调整词频和字典顺序/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.4词性标注代码实现及信息提取/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/grammer/rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/grammer/rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.5人名、地名、机构名等关键命名实体识别/ss.ps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.6TextRank算法原理介绍/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.6TextRank算法原理介绍/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3_ chapter/3.6TextRank算法原理介绍/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../3_ chapter/3.6TextRank算法原理介绍/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursionSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursionSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentenceSplit_host.py" beforeDir="false" afterPath="$PROJECT_DIR$/sentenceSplit_host.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanfordParse.py" beforeDir="false" afterPath="$PROJECT_DIR$/stanfordParse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.3名词短语块挖掘/extract_nvp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/extract_nvp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.3名词短语块挖掘/grammer/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/grammer/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.3名词短语块挖掘/nvp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/nvp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.3名词短语块挖掘/tokenizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.3名词短语块挖掘/tokenizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.4自定义语法与CFG/cfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.4自定义语法与CFG/cfg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.4自定义语法与CFG/grammer/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.4自定义语法与CFG/grammer/tools.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,13 +50,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grammer/rules.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grammer/tools.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -24,27 +65,88 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sentenceSplit_host.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1365">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="e#15#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recursionSearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="80" column="83" selection-start-line="80" selection-start-column="83" selection-end-line="80" selection-end-column="83" />
+              <folding>
+                <element signature="e#15#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="330">
+                <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stanfordParse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="142" selection-start-line="30" selection-start-column="142" selection-end-line="30" selection-end-column="142" />
+              <folding>
+                <element signature="e#15#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dependency.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/grammer/tools.py" />
+        <option value="$PROJECT_DIR$/recursionSearch.py" />
+        <option value="$PROJECT_DIR$/stanfordParse.py" />
+        <option value="$PROJECT_DIR$/sentenceSplit_host.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1556" />
-    <option name="y" value="137" />
-    <option name="width" value="959" />
-    <option name="height" value="708" />
+    <option name="x" value="1813" />
+    <option name="y" value="358" />
+    <option name="width" value="957" />
+    <option name="height" value="700" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,10 +163,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4.4自定义语法与CFG" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -121,16 +224,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1430" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
+    <frame x="1431" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -138,6 +236,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -151,6 +253,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentenceSplit_host.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#15#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recursionSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="83" selection-start-line="80" selection-start-column="83" selection-end-line="80" selection-end-column="83" />
+          <folding>
+            <element signature="e#15#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stanfordParse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="142" selection-start-line="30" selection-start-column="142" selection-end-line="30" selection-end-column="142" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dependency.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

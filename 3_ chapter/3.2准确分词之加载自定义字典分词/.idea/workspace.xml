@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1cd50f6-0551-4340-a827-392492da0e56" name="Default Changelist" comment="" />
+    <list default="true" id="c1cd50f6-0551-4340-a827-392492da0e56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.6TextRank算法原理介绍/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3准确分词之动态调整词频和字典顺序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.3准确分词之动态调整词频和字典顺序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3准确分词之动态调整词频和字典顺序/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../3.3准确分词之动态调整词频和字典顺序/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/grammer/rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/grammer/rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/ss.ps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.6TextRank算法原理介绍/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.6TextRank算法原理介绍/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.6TextRank算法原理介绍/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../3.6TextRank算法原理介绍/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/recursionSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/recursionSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/sentenceSplit_host.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/sentenceSplit_host.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/stanfordParse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/stanfordParse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/extract_nvp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/extract_nvp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/grammer/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/grammer/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/nvp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/nvp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/tokenizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/tokenizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/cfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/cfg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/grammer/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/grammer/tools.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cut_data.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="491">
-              <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+              <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
               <folding>
                 <element signature="e#21#33#0" expanded="true" />
               </folding>
@@ -22,11 +52,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tokenizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            <state relative-caret-position="360">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
               <folding>
                 <element signature="e#15#34#0" expanded="true" />
               </folding>
@@ -84,6 +126,9 @@
       <find>seg_sentences</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -103,6 +148,7 @@
     <option name="width" value="961" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -123,7 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3.3准确分词之动态调整词频和字典顺序" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2_hanlp_example" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -287,10 +333,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/output.txt" />
+    <entry file="file://$PROJECT_DIR$/cut_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+          <folding>
+            <element signature="e#21#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tokenizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="e#15#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/result_cut.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -308,23 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dict.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tokenizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-          <folding>
-            <element signature="e#15#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -332,16 +388,6 @@
             <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cut_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
-          <folding>
-            <element signature="e#21#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

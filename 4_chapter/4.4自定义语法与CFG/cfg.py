@@ -9,12 +9,15 @@ def exec_cmd(cmd):
         env=ENVIRON)
     out, err = p.communicate()
     return out, err
+
 import nltk,os,jieba
 from nltk.tree import Tree
 from nltk.draw import TreeWidget
 from nltk.draw.tree import TreeView
 from nltk.draw.util import CanvasFrame
 from nltk.parse import RecursiveDescentParser
+
+
 class Cfg():
     '''
     '''
@@ -84,7 +87,7 @@ class Cfg():
             print("Not Question Type")
 
     def cfg_en(self):
-        print("test_nltk_cfg_en")
+        print("test_nltk_cfg_en")              # 定义英文语法规则
         grammar = nltk.CFG.fromstring("""
          S -> NP VP
          VP -> V NP | V NP PP

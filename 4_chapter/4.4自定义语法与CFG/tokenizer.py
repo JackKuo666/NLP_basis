@@ -2,8 +2,8 @@
 import os,gc,re,sys
 from itertools import chain
 from jpype import *
-root_path="D:\\change\\chunking"
-djclass_path="-Djava.class.path="+root_path+os.sep+"module"+os.sep+"hanlp"+os.sep+"hanlp-1.6.2.jar;"+root_path+os.sep+"module"+os.sep+"hanlp"
+
+djclass_path="-Djava.class.path="+"/home/kuo/NLP/module"+os.sep+"hanlp"+os.sep+"hanlp-1.6.2.jar:"+"/home/kuo/NLP/module"+os.sep+"hanlp"
 startJVM(getDefaultJVMPath(),djclass_path,"-Xms1g","-Xmx1g")
 Tokenizer = JClass('com.hankcs.hanlp.tokenizer.StandardTokenizer')
 def to_string(sentence,return_generator=False):

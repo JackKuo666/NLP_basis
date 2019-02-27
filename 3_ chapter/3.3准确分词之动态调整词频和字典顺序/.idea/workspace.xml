@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7165a16-f2fc-470e-a3aa-ef68e911c716" name="Default Changelist" comment="" />
+    <list default="true" id="e7165a16-f2fc-470e-a3aa-ef68e911c716" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.6TextRank算法原理介绍/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/grammer/rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/grammer/rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别/ss.ps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.6TextRank算法原理介绍/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.6TextRank算法原理介绍/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.6TextRank算法原理介绍/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../3.6TextRank算法原理介绍/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/recursionSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/recursionSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/sentenceSplit_host.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/sentenceSplit_host.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/stanfordParse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/stanfordParse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/extract_nvp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/extract_nvp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/grammer/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/grammer/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/nvp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/nvp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/tokenizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/tokenizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/cfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/cfg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/grammer/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/grammer/tools.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +39,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cut_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="96" />
+            <state relative-caret-position="45">
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
               <folding>
                 <element signature="e#21#33#0" expanded="true" />
               </folding>
@@ -43,9 +73,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="479">
-                <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -60,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tokenizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="330">
               <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding>
                 <element signature="e#15#34#0" expanded="true" />
@@ -71,14 +101,17 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tokenizer.py" />
         <option value="$PROJECT_DIR$/dict.txt" />
         <option value="$PROJECT_DIR$/cut_data.py" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/sort_dict_by_lenth.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -88,6 +121,7 @@
     <option name="width" value="961" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -108,7 +142,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3.4词性标注代码实现及信息提取" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3.2准确分词之加载自定义字典分词" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -211,13 +245,9 @@
   <component name="ToolWindowManager">
     <frame x="1430" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
@@ -225,6 +255,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -238,9 +272,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sort_dict_by_lenth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_cut.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/tokenizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="330">
           <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding>
             <element signature="e#15#34#0" expanded="true" />
@@ -250,29 +294,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cut_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="96" />
+        <state relative-caret-position="45">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
           <folding>
             <element signature="e#21#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result_cut.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sort_dict_by_lenth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="479">
-            <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>

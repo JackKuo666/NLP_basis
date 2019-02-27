@@ -1,10 +1,10 @@
 所属行业/NP   ：/O   /O   快速消费品/NP   (/O   食品/NP   ,/O   饮料/NP   ,/O   化妆品/NP   )/O   
 业务部/NP   /O   采购主管/NP   
-本人/O   是从/VP   黄金珠宝营业员/NP   开始做起/VP   ,/O   现/O   从事/VP   黄金珠宝/NP   和/O   化妆品的招商工作/NP   ,/O   曾/O   参与/VP   1999/O   年/O   和/O   2004年3家商场的招商工作/NP   ,/O   在/PP   公司/NP   我/O   能/VP   比较/NP   完美/O   的/O   贯彻/VP   和/O   执行公司的营销策略/NP   和/O   销售计划/NP   ,/O   并能提出/VP   合理化建议/NP   ,/O   在工作中/O   能/VP   与/O   供应商保持良好/NP   的/O   合作/VP   关系/NP   ./O   
+本人/O   是从/VP   黄金珠宝营业员/NP   开始做起/VP   ,/O   现/O   从事/VP   黄金珠宝/NP   和/O   化妆品的招商工作/NP   ,/O   曾/O   参与/VP   1999/O   年/O   和/O   2004年3家商场的招商工作/NP   ,/O   在/PP   公司/NP   我/O   能/VP   比较/O   完美/O   的/O   贯彻/VP   和/O   执行公司的营销策略/NP   和/O   销售计划/NP   ,/O   并能提出/VP   合理化建议/NP   ,/O   在工作中/O   能/VP   与/O   供应商保持良好/NP   的/O   合作/VP   关系/NP   ./O   
 RESUMEDOCSSTARTFLAG/NP   /O   销售总监/NP   /O   半年市场部总监工作/NP   ，/O   之后/O   公司/NP   开始/VP   华东地区大客户销售业务/NP   ，/O   转为/VP   华东区/NP   
 销售总监/NP   ，/O   创建/VP   易车网华东地区大客户销售团队/NP   ，/O   并/O   带领/VP   团队/NP   完成/VP   公司/NP   下达/VP   
 的/O   销售任务/NP   。/O   。/O   
-主要/O   收获/NP   ：/O   半年市场总监工作经验/NP   ，/O   成功/O   稳固/O   公司/NP   在/PP   上海的品牌形象/NP   和/O   客户关系/NP   ，/O   有效/NP   
+主要/O   收获/NP   ：/O   半年市场总监工作经验/NP   ，/O   成功/O   稳固/O   公司/NP   在/PP   上海的品牌形象/NP   和/O   客户关系/NP   ，/O   有效/O   
 利用/VP   各种手段推广公司品牌/NP   。/O   。/O   
 两年半网络广告销售/NP   从业/O   及/O   管理经验/NP   ，/O   成功/O   组建/VP   
 易车网华东区域大客户销售团队/NP   ，/O   以/PP   直/O   客/NP   为/PP   导向/NP   ，/O   兼顾/VP   渠道/NP   。/O   。/O   
@@ -17,7 +17,7 @@ RESUMEDOCSSTARTFLAG/NP   /O   市场部高级经理/NP   /O   负责东方网/NP
 部分平面广告销售工作/NP   ,/O   熟悉/VP   平面广告销售/NP   的/O   所有/O   流程/NP   
 RESUMEDOCSSTARTFLAG/NP   /O   事业发展部主管/NP   /O   （/O   自/PP   /O   2004/O   /O   年/O   /O   3/O   /O   月/NP   ——/O   2005/O   /O   年/O   /O   3/O   /O   月/NP   ，/O   在/PP   共青团上海市委管理信息/NP   部/O   挂职锻炼/NP   ）/O   网站编辑/NP   ;/O   
 公司内部活动策划组织/NP   ,/O   项目管理/NP   ;/O   
-协调/NP   ./O   /O   联络/NP   并/O   保持/NP   与/O   团市委机关/NP   的/O   良好/O   合作/VP   关系/NP   
+协调/NP   ./O   /O   联络/VP   并/O   保持/VP   与/O   团市委机关/NP   的/O   良好/O   合作/VP   关系/NP   
 主要/O   收获/NP   :/O   /O   对/PP   网络/NP   与/O   信息化/NP   有/VP   了/O   进一步/O   的/O   认识/VP   ,/O   了解/VP   网站的运营模式/NP   
 在/PP   团市委机关挂职/NP   
 期间/O   ,/O   加强/VP   了/O   自身/O   思想道德/NP   等/O   各/O   方面的学习/NP   ,/O   积累/VP   了/O   广泛/O   的/O   人脉/NP   ,/O   多次/O   参与/VP   
@@ -25,9 +25,9 @@ RESUMEDOCSSTARTFLAG/NP   /O   事业发展部主管/NP   /O   （/O   自/PP   /
 海市信息化青年人才协会/NP   第一次会员大会--/NP   暨/O   “/O   世博会/NP   与/O   信息化/NP   ”/O   青年/NP   论/VP   
 坛/NP   等等/O   ,/O   使/VP   自身/O   各/O   方面综合素质/NP   有/VP   了/O   一个/O   更/O   全面/O   的/O   提高/VP   
 RESUMEDOCSSTARTFLAG/NP   /O   市场公关专员/NP   /O   策划组织/NP   各类/O   活动/NP   ,/O   包括/VP   户外拓展/NP   训练/VP   ,/O   团队建设/NP   等/O   ;/O   
-策划组织公司内部/NP   各项/O   活动/NP   ,/O   落实/VP   凝聚力工程/NP   ;/O   
+策划组织公司/NP   内部/O   各项/O   活动/NP   ,/O   落实/VP   凝聚力工程/NP   ;/O   
 组织/NP   各类/O   公关接待/NP   及/O   外联工作/NP   ;/O   
 各类/O   活动的主持/NP   及/O   执行/NP   等/O   事宜/NP   
 主要/O   收获/NP   :/O   /O   积累/VP   了/O   更/O   丰富/O   的/O   策划经验/NP   ,/O   多次/O   的/O   主持经历/NP   让/VP   我/O   在/PP   语言表达方面/NP   有/VP   了/O   进一步/O   
-的/O   提高/VP   ,/O   不断/O   接触/NP   到/VP   的/O   不同/O   人群/NP   ,/O   也/O   让/VP   我/O   积累/VP   了/O   良好/O   的/O   社会关系/NP   ,/O   现场/NP   的/O   活/VP   
-动/VP   执行/NP   ,/O   更/O   让/VP   我/O   在/PP   面对/VP   突发事件/NP   时/O   ,/O   有/VP   了/O   冷静/NP   思考的能力/NP   
+的/O   提高/VP   ,/O   不断/O   接触到/VP   的/O   不同/O   人群/NP   ,/O   也/O   让/VP   我/O   积累/VP   了/O   良好/O   的/O   社会关系/NP   ,/O   现场/NP   的/O   活/VP   
+动/VP   执行/NP   ,/O   更/O   让/VP   我/O   在/PP   面对/VP   突发事件/NP   时/O   ,/O   有/VP   了/O   冷静/O   思考的能力/NP   

@@ -115,3 +115,16 @@ class TextRank(KeywordExtractor):                             # textrank算法�
 
 ```
 # 2.利用jieba的textrank来进行关键词提取
+主函数是tex_tank.py
+
+结果：
+```python
+/home/kuo/anaconda2/envs/py3/bin/python "/home/kuo/NLP/NLP_basis/3_ chapter/3.6TextRank算法原理介绍/tex_rank.py"
+
+Building prefix dict from the default dictionary ...
+keywords by textrank:
+Dumping model to file cache /tmp/jieba.cache
+Loading model cost 2.203 seconds.
+Prefix dict has been built succesfully.
+线程 进程 单位 基本 调度 分派 局部变量 堆栈 资源 程序执行
+```

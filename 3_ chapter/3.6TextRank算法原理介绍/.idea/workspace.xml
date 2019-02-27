@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37ac9736-f798-4654-9fbb-8a620e5a26b9" name="Default Changelist" comment="" />
+    <list default="true" id="37ac9736-f798-4654-9fbb-8a620e5a26b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/recursionSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/recursionSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/sentenceSplit_host.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/sentenceSplit_host.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/stanfordParse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.2依存句法树解析/stanfordParse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/extract_nvp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/extract_nvp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/grammer/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/grammer/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/nvp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/nvp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/tokenizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.3名词短语块挖掘/tokenizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/cfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/cfg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/grammer/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../4_chapter/4.4自定义语法与CFG/grammer/tools.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +28,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tex_rank.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -31,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/anaconda2/envs/py3/lib/python3.6/site-packages/jieba/analyse/textrank.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="47" column="28" lean-forward="true" selection-end-line="110" />
+            <state relative-caret-position="615">
+              <caret line="47" column="28" selection-end-line="110" />
             </state>
           </provider>
         </entry>
@@ -41,8 +60,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="794">
-                <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+              <first_editor relative-caret-position="760">
+                <caret line="128" column="33" selection-start-line="128" selection-start-column="33" selection-end-line="128" selection-end-column="33" />
               </first_editor>
               <second_editor />
             </state>
@@ -52,16 +71,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grammer/tools.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-              <folding>
-                <element signature="e#30#49#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -78,6 +97,7 @@
     <option name="width" value="959" />
     <option name="height" value="708" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -103,7 +123,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../4_/4.2依存句法树解析" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3.5人名、地名、机构名等关键命名实体识别" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -162,33 +182,37 @@
   <component name="ToolWindowManager">
     <frame x="1430" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32912722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda2/envs/py3/lib/python3.6/site-packages/jieba/analyse/textrank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="47" column="28" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grammer/tools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-          <folding>
-            <element signature="e#30#49#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -199,25 +223,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda2/envs/py3/lib/python3.6/site-packages/jieba/analyse/textrank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="47" column="28" lean-forward="true" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tex_rank.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="794">
-            <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+          <first_editor relative-caret-position="760">
+            <caret line="128" column="33" selection-start-line="128" selection-start-column="33" selection-end-line="128" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>

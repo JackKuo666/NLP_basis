@@ -4,9 +4,8 @@ import os,gc,re,sys
 from itertools import chain
 from stanfordcorenlp import StanfordCoreNLP
 
-root_path=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-stanford_nlp = StanfordCoreNLP(root_path+os.sep+"module"+os.sep+'stanfordnlp', lang='zh')
+stanford_nlp = StanfordCoreNLP("/home/kuo/NLP/module"+os.sep+'stanfordnlp', lang='zh')
 
 drop_pos_set=set(['xu','xx','y','yg','wh','wky','wkz','wp','ws','wyy','wyz','wb','u','ud','ude1','ude2','ude3','udeng','udh'])
 han_pattern=re.compile(r'[^\dA-Za-z\u3007\u4E00-\u9FCB\uE815-\uE864]+')

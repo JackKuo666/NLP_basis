@@ -1,6 +1,13 @@
 # 说明
 主要使用Stanfordnlp进行命名实体识别
+# 过程
+按行读取text.txt文本
 
+使用Stanfordnlp的ner方法进行命名实体识别
+
+使用nltk自定义grammar构建语法树
+
+通过get_stanford_ner_nodes函数将语法树中需要的标签留下来
 
 
 
