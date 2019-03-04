@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a9e8333-05e9-4c96-bd0d-8e3656f2cebb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="d5314a54-ae2f-4e7e-9ca3-81f1af931fc6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../8.3递归神经网络/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8.3递归神经网络/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8.4.1长短时记忆网络LSTM/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8.4.1长短时记忆网络LSTM/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../8.4.2基于TF的LSTM实现文本分类/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../8.4.2基于TF的LSTM实现文本分类/predict_rnn.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../8.4.2基于TF的LSTM实现文本分类/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../7_chapter/7.3CNN文本分类/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7_chapter/7.3CNN文本分类/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8.2循环神经网络/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8.2循环神经网络/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../8.3递归神经网络/recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/../8.3递归神经网络/recursive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../8.4.2基于TF的LSTM实现文本分类/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../8.4.2基于TF的LSTM实现文本分类/predict_cnn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../8.4.2基于TF的LSTM实现文本分类/rnn_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../8.4.2基于TF的LSTM实现文本分类/rnn_model.py" afterDir="false" />
@@ -25,10 +23,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rnn.py">
+        <entry file="file://$PROJECT_DIR$/cnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+            <state>
               <folding>
                 <element signature="e#48#66#0" expanded="true" />
               </folding>
@@ -36,25 +33,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cnn.py">
+        <entry file="file://$PROJECT_DIR$/lstm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6795">
-              <caret line="454" selection-start-line="454" selection-end-line="454" />
+            <state relative-caret-position="-525">
+              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
               <folding>
-                <element signature="e#48#66#0" expanded="true" />
+                <element signature="e#48#79#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,20 +48,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/activators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="480">
+              <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -84,10 +74,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/activators.py" />
-        <option value="$PROJECT_DIR$/recursive.py" />
-        <option value="$PROJECT_DIR$/cnn.py" />
-        <option value="$PROJECT_DIR$/rnn.py" />
+        <option value="$PROJECT_DIR$/lstm.py" />
         <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
@@ -108,8 +95,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="8.2循环神经网络" type="b2602c69:ProjectViewProjectNode" />
-              <item name="8.2循环神经网络" type="462c0819:PsiDirectoryNode" />
+              <item name="8.4.1长短时记忆网络LSTM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8.4.1长短时记忆网络LSTM" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,7 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../8.3递归神经网络" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -134,9 +121,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rnn">
-    <configuration name="recursive" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="8.2循环神经网络" />
+  <component name="RunManager">
+    <configuration name="lstm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="8.4.1长短时记忆网络LSTM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -147,28 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursive.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="rnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="8.2循环神经网络" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rnn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lstm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,8 +145,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.rnn" />
-        <item itemvalue="Python.recursive" />
+        <item itemvalue="Python.lstm" />
       </list>
     </recent_temporary>
   </component>
@@ -189,24 +154,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1a9e8333-05e9-4c96-bd0d-8e3656f2cebb" name="Default Changelist" comment="" />
-      <created>1551679367458</created>
+      <changelist id="d5314a54-ae2f-4e7e-9ca3-81f1af931fc6" name="Default Changelist" comment="" />
+      <created>1551688834851</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551679367458</updated>
+      <updated>1551688834851</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32912722" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957938" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -223,54 +188,49 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/rnn.py</url>
-          <line>147</line>
-          <option name="timeStamp" value="13" />
+          <url>file://$PROJECT_DIR$/lstm.py</url>
+          <line>327</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/rnn.py</url>
-          <line>148</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/lstm.py</url>
+          <line>328</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/rnn.py</url>
-          <line>149</line>
-          <option name="timeStamp" value="15" />
+          <url>file://$PROJECT_DIR$/lstm.py</url>
+          <line>329</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/rnn.py</url>
-          <line>150</line>
-          <option name="timeStamp" value="16" />
+          <url>file://$PROJECT_DIR$/lstm.py</url>
+          <line>330</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/rnn.py</url>
-          <line>151</line>
-          <option name="timeStamp" value="17" />
+          <url>file://$PROJECT_DIR$/lstm.py</url>
+          <line>331</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/rnn.py</url>
-          <line>152</line>
-          <option name="timeStamp" value="18" />
+          <url>file://$PROJECT_DIR$/lstm.py</url>
+          <line>332</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/recursive.py" />
-    <entry file="file://$PROJECT_DIR$/rnn.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-549069409/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
-          <folding>
-            <element signature="e#48#66#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="261">
+          <caret line="794" column="8" selection-start-line="794" selection-start-column="8" selection-end-line="794" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6795">
-          <caret line="454" selection-start-line="454" selection-end-line="454" />
+        <state>
           <folding>
             <element signature="e#48#66#0" expanded="true" />
           </folding>
@@ -279,16 +239,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/activators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="480">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lstm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="e#48#79#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
           </first_editor>
           <second_editor />
         </state>

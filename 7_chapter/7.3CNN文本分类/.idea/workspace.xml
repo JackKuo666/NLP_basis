@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f702fd29-075c-4735-9056-908acb3f03d6" name="Default Changelist" comment="" />
+    <list default="true" id="f702fd29-075c-4735-9056-908acb3f03d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../8_chapter/8.3递归神经网络/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_chapter/8.4.1长短时记忆网络LSTM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_chapter/8.4.2基于TF的LSTM实现文本分类/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_chapter/8.4.2基于TF的LSTM实现文本分类/predict_rnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_chapter/8.4.2基于TF的LSTM实现文本分类/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8_chapter/8.2循环神经网络/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8_chapter/8.2循环神经网络/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8_chapter/8.3递归神经网络/recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../8_chapter/8.3递归神经网络/recursive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8_chapter/8.4.2基于TF的LSTM实现文本分类/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../8_chapter/8.4.2基于TF的LSTM实现文本分类/predict_cnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8_chapter/8.4.2基于TF的LSTM实现文本分类/rnn_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../8_chapter/8.4.2基于TF的LSTM实现文本分类/rnn_model.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +35,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run_cnn.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
               <caret line="177" selection-start-line="177" selection-end-line="177" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/predict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-line="56" />
+              <folding>
+                <element signature="e#17#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,6 +67,7 @@
         <option value="$PROJECT_DIR$/cnn_model.py" />
         <option value="$PROJECT_DIR$/data/cnews_loader.py" />
         <option value="$PROJECT_DIR$/run_cnn.py" />
+        <option value="$PROJECT_DIR$/predict.py" />
       </list>
     </option>
   </component>
@@ -59,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,6 +116,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run_cnn">
+  <component name="RunManager" selected="Python.predict">
     <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="7.3CNN文本分类" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,8 +180,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run_cnn" />
         <item itemvalue="Python.predict" />
+        <item itemvalue="Python.run_cnn" />
       </list>
     </recent_temporary>
   </component>
@@ -175,14 +199,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1430" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="1431" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16448088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16448088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32912722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3391116" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39957938" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -241,16 +265,6 @@
     <entry file="file://$PROJECT_DIR$/data/cnews/cnews.vocab.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="46" column="81" lean-forward="true" selection-start-line="46" selection-start-column="81" selection-end-line="46" selection-end-column="81" />
-          <folding>
-            <element signature="e#17#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -285,6 +299,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-line="56" />
+          <folding>
+            <element signature="e#17#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

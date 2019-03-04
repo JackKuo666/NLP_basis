@@ -117,7 +117,7 @@ class RecursiveLayer(object):
     def dump(self, **kwArgs):
         print ('root.data: %s' % self.root.data)
         print ('root.children_data: %s' % self.root.children_data)
-        if kwArgs.has_key('dump_grad'):
+        if 'dump_grad' in kwArgs:
             print ('W_grad: %s' % self.W_grad)
             print ('b_grad: %s' % self.b_grad)
 

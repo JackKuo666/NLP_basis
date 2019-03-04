@@ -61,10 +61,10 @@ class TextRNN(object):
 
         with tf.name_scope("rnn"):
             # 多层rnn网络
-            cells = [dropout() for _ in range(self.config.num_layers)]
-            rnn_cell = tf.contrib.rnn.MultiRNNCell(cells, state_is_tuple=True)
+            cells = [dropout() for _ in range(self.config.num_layers)]         # 定义cell
+            rnn_cell = tf.contrib.rnn.MultiRNNCell(cells, state_is_tuple=True) # 将两层的lstm组装起来
 
-            _outputs, _ = tf.nn.dynamic_rnn(cell=rnn_cell, inputs=embedding_inputs, dtype=tf.float32)
+            _outputs, _ = tf.nn.dynamic_rnn(cell=rnn_cell, inputs=embedding_inputs, dtype=tf.float32)  # _outputs表示最后一层的输出【？，600,128】；"_"：表示每一层的最后一个step的输出，也就是2个【？，128】，几层就有几个【？，128】
             last = _outputs[:, -1, :]  # 取最后一个时序输出作为结果
 
         with tf.name_scope("score"):
