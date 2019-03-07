@@ -14,6 +14,7 @@
 原理：[第二章：NLP常用开发工具包](https://github.com/JackKuo666/NLP_basis/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9ANLP%E5%B8%B8%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8C%85.md)
 
 代码： 
+
 [0_jieba_example](https://github.com/JackKuo666/NLP_basis/tree/master/0_jieba_example)
 
 [1_Stanford_NLP_example](https://github.com/JackKuo666/NLP_basis/tree/master/1_Stanford_NLP_example)
