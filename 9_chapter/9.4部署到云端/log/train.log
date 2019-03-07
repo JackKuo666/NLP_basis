@@ -1,0 +1,78 @@
+2017-11-02 12:00:57,753 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-02 12:10:48,077 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-02 12:17:53,219 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-02 12:19:36,679 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 16:07:47,069 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 16:08:49,485 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 16:10:06,205 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 16:11:14,609 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 16:45:41,208 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 16:47:11,382 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 16:48:21,078 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 16:50:04,981 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 16:58:01,342 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 17:00:19,284 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 17:01:33,832 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 17:02:52,231 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 17:05:32,004 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 18:53:24,833 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 18:54:34,017 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 18:56:00,229 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 18:56:52,082 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 21:23:46,629 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 21:27:50,555 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 21:30:28,690 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 21:34:16,081 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 21:40:23,526 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 22:01:05,329 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 22:22:19,983 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 22:25:10,606 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 22:35:34,689 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 22:37:24,880 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 22:38:53,706 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-04 22:41:19,973 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 09:29:05,496 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 09:31:32,016 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 09:32:02,164 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 09:34:12,873 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 09:51:16,770 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 10:03:22,179 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 10:25:44,545 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 10:27:26,402 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 10:29:58,686 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 10:33:02,274 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 10:47:39,801 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 10:48:59,528 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 10:50:20,974 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 10:59:13,821 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2017-11-21 11:06:48,063 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2018-01-25 00:10:29,865 - train.log - INFO - Created model with fresh parameters.
+2018-01-25 00:13:10,860 - train.log - INFO - Created model with fresh parameters.
+2018-01-25 00:16:49,333 - train.log - INFO - Created model with fresh parameters.
+2018-01-25 00:16:54,705 - train.log - INFO - Load pre-trained embedding.
+2018-01-25 00:31:31,445 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2018-01-25 00:36:00,783 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2018-01-25 00:38:09,750 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2018-02-28 20:03:47,992 - train.log - INFO - Created model with fresh parameters.
+2018-02-28 20:03:52,524 - train.log - INFO - Load pre-trained embedding.
+2018-02-28 21:15:05,255 - train.log - INFO - Created model with fresh parameters.
+2018-02-28 21:16:35,454 - train.log - INFO - Created model with fresh parameters.
+2018-02-28 21:18:02,393 - train.log - INFO - Created model with fresh parameters.
+2018-02-28 21:18:07,150 - train.log - INFO - Load pre-trained embedding.
+2018-02-28 21:19:31,925 - train.log - INFO - Created model with fresh parameters.
+2018-02-28 21:19:36,765 - train.log - INFO - Load pre-trained embedding.
+2018-02-28 21:50:57,385 - train.log - INFO - Created model with fresh parameters.
+2018-02-28 21:51:02,099 - train.log - INFO - Load pre-trained embedding.
+2018-02-28 21:52:52,707 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2018-03-01 18:49:47,821 - train.log - INFO - Reading model parameters from ckpt\ner.ckpt
+2019-03-06 22:12:43,039 - train.log - INFO - Created model with fresh parameters.
+2019-03-06 22:12:44,808 - train.log - INFO - Load pre-trained embedding.
+2019-03-07 17:06:59,377 - log/train.log - INFO - Created model with fresh parameters.
+2019-03-07 17:08:40,159 - log/train.log - INFO - Created model with fresh parameters.
+2019-03-07 17:10:02,228 - log/train.log - INFO - Created model with fresh parameters.
+2019-03-07 17:12:45,593 - log/train.log - INFO - Created model with fresh parameters.
+2019-03-07 17:12:47,373 - log/train.log - INFO - Load pre-trained embedding.
+2019-03-07 18:11:30,962 - log/train.log - INFO - Created model with fresh parameters.
+2019-03-07 18:11:32,808 - log/train.log - INFO - Load pre-trained embedding.
+2019-03-07 22:05:07,005 - log/train.log - INFO - Created model with fresh parameters.
+2019-03-07 22:05:08,895 - log/train.log - INFO - Load pre-trained embedding.
