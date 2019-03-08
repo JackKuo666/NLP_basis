@@ -38,7 +38,7 @@ flags.DEFINE_integer("max_epoch",   100,        "maximum training epochs")
 flags.DEFINE_integer("steps_check", 100,        "steps per checkpoint")
 flags.DEFINE_string("ckpt_path",    "ckpt",      "Path to save model")
 flags.DEFINE_string("summary_path", "summary",      "Path to store summaries")
-flags.DEFINE_string("log_file",     "./log/train.log",    "File for log")
+flags.DEFINE_string("log_file",     "train.log",    "File for log")
 flags.DEFINE_string("map_file",     "./config/maps.pkl",     "file for maps")
 flags.DEFINE_string("vocab_file",   "vocab.json",   "File for vocab")
 flags.DEFINE_string("config_file",  "./config/config_file",  "File for config")
@@ -47,9 +47,9 @@ flags.DEFINE_string("id_to_tag_path",  "./config/id_to_tag.txt",  "File for id_t
 flags.DEFINE_string("script",       "conlleval",    "evaluation script")
 flags.DEFINE_string("result_path",  "result",       "Path for results")
 flags.DEFINE_string("emb_file",     os.path.join(root_path+"data", "vec.txt"),  "Path for pre_trained embedding")
-flags.DEFINE_string("train_file",   os.path.join(root_path+"data", "example.train"),  "Path for train data")
-flags.DEFINE_string("dev_file",     os.path.join(root_path+"data", "example.dev"),    "Path for dev data")
-flags.DEFINE_string("test_file",    os.path.join(root_path+"data", "example.test"),   "Path for test data")
+flags.DEFINE_string("train_file",   os.path.join(root_path+"data", "example.dev"),  "Path for train data")  # example.train
+flags.DEFINE_string("dev_file",     os.path.join(root_path+"data", "example.dev"),    "Path for dev data")   # 注意，这里的数据集我都做了修改，为了在我的机器上运行
+flags.DEFINE_string("test_file",    os.path.join(root_path+"data", "example.dev"),   "Path for test data")   # example.test
 
 flags.DEFINE_string("model_type", "idcnn", "Model type, can be idcnn or bilstm")
 #flags.DEFINE_string("model_type", "bilstm", "Model type, can be idcnn or bilstm")
@@ -142,7 +142,7 @@ def train():
             char_to_id, id_to_char, tag_to_id, id_to_tag = pickle.load(f)        #
 
     # prepare data, get a collection of list containing index
-    train_data = prepare_dataset(
+    train_data = prepare_dataset(                                    # train_data[0][0]:一句话；train_data[0][1]：单个字的编号；train_data[0][2]：切词之后，切词特征：词的大小是一个字的话是0，词的大小是2以上的话：1,2.。。，2,3； train_data[0][3]：每个字的标签
         train_sentences, char_to_id, tag_to_id, FLAGS.lower
     )
     dev_data = prepare_dataset(
@@ -154,7 +154,7 @@ def train():
     print("%i / %i / %i sentences in train / dev / test." % (
         len(train_data), 0, len(test_data)))
 
-    train_manager = BatchManager(train_data, FLAGS.batch_size)
+    train_manager = BatchManager(train_data, FLAGS.batch_size)        # 将数据拆分成以60句话为一个batch
     dev_manager = BatchManager(dev_data, 100)
     test_manager = BatchManager(test_data, 100)
     # make path for store log and model if not exist
@@ -181,7 +181,7 @@ def train():
         with tf.device("/cpu:0"):
             for i in range(100):
                 for batch in train_manager.iter_batch(shuffle=True):
-                    step, batch_loss = model.run_step(sess, True, batch)          # 按批次训练模型
+                    step, batch_loss = model.run_step(sess, True, batch)          # 按批次训练模型 这个是训练的开始，可以从这里倒着找整个网络怎么训练
                     loss.append(batch_loss)
                     if step % FLAGS.steps_check == 0:
                         iteration = step // steps_per_epoch + 1
@@ -230,7 +230,7 @@ def main(is_train):
 
 
 if __name__ == "__main__":
-    is_train = False
+    is_train = True
     tf.app.run(main(is_train))
 
 

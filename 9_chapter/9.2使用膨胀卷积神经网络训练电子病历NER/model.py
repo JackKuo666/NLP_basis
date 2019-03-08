@@ -117,7 +117,7 @@ class Model(object):
             # apply grad clip to avoid gradient explosion
             grads_vars = self.opt.compute_gradients(self.loss)
             capped_grads_vars = [[tf.clip_by_value(g, -self.config["clip"], self.config["clip"]), v]
-                                 for g, v in grads_vars]
+                                 for g, v in grads_vars]  #config["clip"]梯度截断【-5,5】范围内
             self.train_op = self.opt.apply_gradients(capped_grads_vars, self.global_step)
 
         # saver of the model
@@ -157,8 +157,29 @@ class Model(object):
         self.embedding_test=embedding
         return embed
 
-    
-    #IDCNN layer 
+    def biLSTM_layer(self, model_inputs, lstm_dim, lengths, name=None):
+        """
+        :param lstm_inputs: [batch_size, num_steps, emb_size]
+        :return: [batch_size, num_steps, 2*lstm_dim]
+        """
+        with tf.variable_scope("char_BiLSTM" if not name else name):
+            lstm_cell = {}
+            for direction in ["forward", "backward"]:
+                with tf.variable_scope(direction):
+                    lstm_cell[direction] = tf.contrib.rnn.CoupledInputForgetGateLSTMCell(
+                        lstm_dim,
+                        use_peepholes=True,
+                        initializer=self.initializer,
+                        state_is_tuple=True)
+            outputs, final_states = tf.nn.bidirectional_dynamic_rnn(
+                lstm_cell["forward"],
+                lstm_cell["backward"],
+                model_inputs,
+                dtype=tf.float32,
+                sequence_length=lengths)
+        return tf.concat(outputs, axis=2)
+
+    #IDCNN layer
     def IDCNN_layer(self, model_inputs, 
                     name=None):
         """
@@ -173,9 +194,9 @@ class Model(object):
             reuse = True
         with tf.variable_scope("idcnn" if not name else name):
             #shape=[1*3*120*100]
-            shape=[1, self.filter_width, self.embedding_dim,
-                       self.num_filter]
-            print(shape)
+            # shape=[1, self.filter_width, self.embedding_dim,
+            #            self.num_filter]
+            # print(shape)
             filter_weights = tf.get_variable(
                 "idcnn_filter",
                 shape=[1, self.filter_width, self.embedding_dim,
@@ -190,7 +211,7 @@ class Model(object):
                                       filter_weights,
                                       strides=[1, 1, 1, 1],
                                       padding="SAME",
-                                      name="init_layer",use_cudnn_on_gpu=True)
+                                      name="init_layer",use_cudnn_on_gpu=False)
             self.layerInput_test=layerInput
             finalOutFromLayers = []
             

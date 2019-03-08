@@ -157,7 +157,29 @@ class Model(object):
         self.embedding_test=embedding
         return embed
 
-    
+
+    def biLSTM_layer(self, model_inputs, lstm_dim, lengths, name=None):
+        """
+        :param lstm_inputs: [batch_size, num_steps, emb_size]
+        :return: [batch_size, num_steps, 2*lstm_dim]
+        """
+        with tf.variable_scope("char_BiLSTM" if not name else name):
+            lstm_cell = {}
+            for direction in ["forward", "backward"]:
+                with tf.variable_scope(direction):
+                    lstm_cell[direction] = tf.contrib.rnn.CoupledInputForgetGateLSTMCell(
+                        lstm_dim,
+                        use_peepholes=True,
+                        initializer=self.initializer,
+                        state_is_tuple=True)
+            outputs, final_states = tf.nn.bidirectional_dynamic_rnn(
+                lstm_cell["forward"],
+                lstm_cell["backward"],
+                model_inputs,
+                dtype=tf.float32,
+                sequence_length=lengths)
+        return tf.concat(outputs, axis=2)
+
     #IDCNN layer 
     def IDCNN_layer(self, model_inputs, 
                     name=None):

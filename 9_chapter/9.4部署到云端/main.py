@@ -9,7 +9,7 @@ from gevent import monkey
 monkey.patch_all()
 import tensorflow as tf
 from model import Model
-from utils import get_logger,load_config,create_model
+from utils import get_logger,load_config,create_model,save_config
 from utils import make_path
 from data_utils import load_word2vec, create_input, input_from_line, BatchManager
 currentPath=os.getcwd()
@@ -120,9 +120,7 @@ with open(FLAGS.map_file, "rb") as f:
         # make path for store log and model if not exist
 make_path(FLAGS)
 
-def save_config(config, config_file):
-    with open(config_file,'w') as fp:
-        fp.write(config)
+
 
 if os.path.isfile(FLAGS.config_file):
     config = load_config(FLAGS.config_file)

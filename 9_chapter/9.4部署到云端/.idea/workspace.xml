@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aa26992-4be9-4f64-b4cd-0fa76a7febd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9.4封装成本地lib库/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9.4封装成本地lib库/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/config/config_file" beforeDir="false" afterPath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/config/config_file" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/config/id_to_tag.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/config/id_to_tag.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/config/maps.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/config/maps.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/config/tag_to_id.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/config/tag_to_id.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/log/train.log" beforeDir="false" afterPath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/log/train.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/model - 副本.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../9.2使用膨胀卷积神经网络训练电子病历NER/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.3封装成本地lib库/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9.3封装成本地lib库/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/train.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/train.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model - 副本.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/conlleval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servers/utils.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="195">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#21#46#0" expanded="true" />
               </folding>
@@ -28,9 +43,35 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="381" selection-start-line="381" selection-end-line="381" />
+              <folding>
+                <element signature="e#4556#6240#0" />
+                <element signature="e#6327#7218#0" />
+                <element signature="e#6346#11451#0" />
+                <element signature="e#11522#12810#0" />
+                <element signature="e#12984#13682#0" />
+                <element signature="e#13754#15516#0" />
+                <element signature="e#15575#16094#0" />
+                <element signature="e#16151#17185#0" />
+                <element signature="e#17242#17991#0" />
+                <element signature="e#18056#19197#0" />
+                <element signature="e#19261#19525#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/servers/conlleval.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1290">
+              <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -48,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testNERFlask.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="61" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="61" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="61" />
               <folding>
                 <element signature="e#21#32#0" expanded="true" />
               </folding>
@@ -63,10 +104,10 @@
     <findStrings>
       <find>connect</find>
       <find>script</find>
-      <find>save_config</find>
       <find>conlleval</find>
       <find>databak</find>
       <find>servers</find>
+      <find>save_config</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,8 +119,9 @@
         <option value="$PROJECT_DIR$/config/config_file" />
         <option value="$PROJECT_DIR$/testNERFlask.py" />
         <option value="$PROJECT_DIR$/model - 副本.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/model.py" />
       </list>
     </option>
   </component>
@@ -95,12 +137,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="9.4部署到云端" type="b2602c69:ProjectViewProjectNode" />
+              <item name="9.4部署到云端" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../9.4封装成本地lib库" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -115,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.testNERFlask">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="9.4部署到云端" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,8 +212,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.testNERFlask" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +232,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -235,13 +288,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-482">
-          <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/config_file">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -275,13 +321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5542">
-          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model - 副本.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -297,13 +336,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/servers/checkdata.py" />
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="e#21#46#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1290">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -322,10 +358,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testNERFlask.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="61" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="61" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="61" />
           <folding>
             <element signature="e#21#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#21#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="381" selection-start-line="381" selection-end-line="381" />
+          <folding>
+            <element signature="e#4556#6240#0" />
+            <element signature="e#6327#7218#0" />
+            <element signature="e#6346#11451#0" />
+            <element signature="e#11522#12810#0" />
+            <element signature="e#12984#13682#0" />
+            <element signature="e#13754#15516#0" />
+            <element signature="e#15575#16094#0" />
+            <element signature="e#16151#17185#0" />
+            <element signature="e#17242#17991#0" />
+            <element signature="e#18056#19197#0" />
+            <element signature="e#19261#19525#0" />
           </folding>
         </state>
       </provider>

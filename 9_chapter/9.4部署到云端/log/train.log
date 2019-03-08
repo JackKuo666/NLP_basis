@@ -76,3 +76,5 @@
 2019-03-07 18:11:32,808 - log/train.log - INFO - Load pre-trained embedding.
 2019-03-07 22:05:07,005 - log/train.log - INFO - Created model with fresh parameters.
 2019-03-07 22:05:08,895 - log/train.log - INFO - Load pre-trained embedding.
+2019-03-08 22:48:35,920 - log/train.log - INFO - Created model with fresh parameters.
+2019-03-08 22:48:39,549 - log/train.log - INFO - Load pre-trained embedding.
