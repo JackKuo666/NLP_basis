@@ -63,3 +63,6 @@
 代码：[9_chapter](https://github.com/JackKuo666/NLP_basis/tree/master/9_chapter)
 
 ------------------------------------完---------------------------------------------------------
+更多NLP知识请访问：
+我的主页：https://jackkuo666.github.io/
+我的博客：https://blog.csdn.net/weixin_37251044
