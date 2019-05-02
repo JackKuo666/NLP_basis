@@ -44,9 +44,8 @@
 
 代码：[6_chapter](https://github.com/JackKuo666/NLP_basis/tree/master/6_chapter)
 
-# 第七章：深度学习之卷积神经网络
-
-原理：[第七章：深度学习之卷积神经网络](https://github.com/JackKuo666/NLP_basis/blob/master/%E7%AC%AC%E4%B8%83%E7%AB%A0%EF%BC%9A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
+# 第七章：CNN与CNN文本分类
+原理：[第七章：CNN与CNN文本分类](https://github.com/JackKuo666/NLP_basis/blob/master/%E7%AC%AC%E4%B8%83%E7%AB%A0%EF%BC%9A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
 
 代码：[7_chapter](https://github.com/JackKuo666/NLP_basis/tree/master/7_chapter)
 
