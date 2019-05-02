@@ -40,7 +40,7 @@
 
 # 第六章：表征学习与关系嵌入
 
-原理：[第六章：表征学习与关系嵌入](https://github.com/JackKuo666/NLP_basis/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0%EF%BC%9A%E8%A1%A8%E5%BE%81%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%85%B3%E7%B3%BB%E5%B5%8C%E5%85%A5.md)
+原理：[第六章：词向量与word2vec](https://github.com/JackKuo666/NLP_basis/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0%EF%BC%9A%E8%A1%A8%E5%BE%81%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%85%B3%E7%B3%BB%E5%B5%8C%E5%85%A5.md)
 
 代码：[6_chapter](https://github.com/JackKuo666/NLP_basis/tree/master/6_chapter)
 
