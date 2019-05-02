@@ -56,7 +56,7 @@
 
 代码：[8_chapter](https://github.com/JackKuo666/NLP_basis/tree/master/8_chapter)
 
-# 第九章：基于深度学习的医药保险命名体识别
+# 第九章：项目：基于深度学习的医药保险命名体识别
 
 原理：[第九章：基于深度学习的医药保险命名体识别](https://github.com/JackKuo666/NLP_basis/blob/master/%E7%AC%AC%E4%B9%9D%E7%AB%A0%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8C%BB%E8%8D%AF%E4%BF%9D%E9%99%A9%E5%91%BD%E5%90%8D%E4%BD%93%E8%AF%86%E5%88%AB.md)
 
